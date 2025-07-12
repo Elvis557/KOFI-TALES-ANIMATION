@@ -3,7 +3,6 @@
 [![Expo](https://img.shields.io/badge/Built%20with-Expo-1f2024?logo=expo&logoColor=white&style=flat-square)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/Framework-React%20Native-61dafb?logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue?style=flat-square)](#)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 > **Interactive React Native Expo app for children’s stories, learning adventures, and playful educational fun.**  
 
@@ -26,8 +25,6 @@
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
 - ⚛️ [React Native](https://reactnative.dev/)
@@ -36,5 +33,6 @@
 - 💻 JavaScript and TypeScript
 
 ---
+
 
 
