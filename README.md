@@ -1,38 +1,44 @@
 # 📖✨ Kofi Tales App
 
-[![Expo](https://img.shields.io/badge/Built%20with-Expo-1f2024?logo=expo&logoColor=white&style=flat-square)](https://expo.dev/)
-[![React Native](https://img.shields.io/badge/Framework-React%20Native-61dafb?logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
+[![Built with Expo](https://img.shields.io/badge/Built%20with-Expo-1f2024?logo=expo&logoColor=white&style=flat-square)](https://expo.dev/)  
+[![Framework](https://img.shields.io/badge/Framework-React%20Native-61dafb?logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)  
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue?style=flat-square)](#)
 
-> **Interactive React Native Expo app for children’s stories, learning adventures, and playful educational fun.**  
+> Welcome to **Kofi Tales** — an interactive app where stories come alive through rich animations and engaging narration.  
+> Designed to spark curiosity and creativity in young learners, one adventure at a time.
 
 ---
 
-## 📺 Watch on YouTube
+## 📺 Watch & Explore
 
-👉 [**Elvis Animations Channel**](https://www.youtube.com/@elvisanimations) – See demos, storytelling videos, and behind-the-scenes content!
-
----
-
-## ✨ Features
-
-✅ Interactive storytelling screens  
-✅ Audio narration for immersive learning  
-✅ Bright, kid-friendly UI design  
-✅ Fast offline access  
-✅ Educational game areas (future enhancements)  
-✅ Cross-platform: iOS and Android
+👉 [**Elvis Animations YouTube Channel**](https://www.youtube.com/@elvisanimations)  
+Discover story demos, behind-the-scenes, and more.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 What’s Inside?
 
-- ⚛️ [React Native](https://reactnative.dev/)
-- 🚀 [Expo](https://expo.dev/)
-- 🌐 React Navigation
-- 💻 JavaScript and TypeScript
+- Interactive animated story screens that captivate young minds  
+- Clear, friendly audio narration for immersive learning  
+- Bright, intuitive design built for kids  
+- Offline access for stories anytime, anywhere  
+- Upcoming: fun educational games to boost learning  
+- Available on both iOS and Android devices
 
 ---
 
+## 🛠️ Built With
 
+- React Native & Expo — powering smooth, cross-platform experiences  
+- React Navigation — seamless screen transitions  
+- JavaScript & TypeScript — robust, maintainable codebase
 
+---
+
+## 🚀 Get Started
+
+```bash
+git clone https://github.com/Elvis557/kofi-tales-app.git
+cd kofi-tales-app
+npm install
+npx expo start
